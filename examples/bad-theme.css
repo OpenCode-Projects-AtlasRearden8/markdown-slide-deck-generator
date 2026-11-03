@@ -1,0 +1,13 @@
+/* bad-theme.css -- deliberately ill-contrasted for the check demo.
+   Every text variable here fails WCAG against the background. */
+:root {
+  --fg: #9a9a9a;
+  --muted: #a0a0a0;
+  --accent: #cc44cc;
+  --link: #7777cc;
+  --bg: #e8e8e8;
+  --head: #333333;
+  --code-bg: #f0f0f0;
+  --border: #cfcfcf;
+  --mark: #ffee99;
+}
